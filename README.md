@@ -5,7 +5,7 @@
 
 ## My Stats
 <p>
-<a href="https://github.com/AVS1508">
+<a href="https://github.com/rithikasilva">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rithikasilva&show_icons=true&theme=onedark" />
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rithikasilva&theme=onedark&layout=compact&exclude_lang=" />
 </a>
