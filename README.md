@@ -1,4 +1,4 @@
-### Hi there 👋
+![Github Readme Stats Theme Preview 1](https://github-readme-stats.vercel.app/api?username=rithikasilva&show_icons=true)
 
 <!--
 **rithikasilva/rithikasilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
