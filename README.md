@@ -6,8 +6,8 @@
 ## My Stats
 <p>
 <a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rithikasilva&show_icons=true&theme=github_dark" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rithikasilva&theme=github_dark&layout=compact&exclude_lang=" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rithikasilva&show_icons=true&theme=onedark" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rithikasilva&theme=onedark&layout=compact&exclude_lang=" />
 </a>
 </p>
 
