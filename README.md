@@ -5,10 +5,8 @@
 
 ## My Stats
 <p>
-<a href="https://github.com/rithikasilva">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=rithikasilva&show_icons=truetrue&theme=dracula&hide_border=true&hide=issues,contribs&bg_color=00000000&count_private=true" />
   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rithikasilva&true&theme=dracula&hide_border=true&hide=issues,contribs&bg_color=00000000&layout=compact&exclude_lang=" />
-</a>
 </p>
 
 
