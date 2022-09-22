@@ -3,9 +3,11 @@
 ## I'm Rithika.
 
 
+<!--
 ## My Stats
 <p>
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=rithikasilva&show_icons=truetrue&theme=dracula&hide_border=true&hide=stars,prs&bg_color=00000000&count_private=true" />
+ -->
   
 <!--
   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rithikasilva&true&theme=dracula&hide_border=true&bg_color=00000000&layout=compact&hide=TeX" />
