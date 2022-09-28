@@ -2,6 +2,8 @@
 
 ## I'm Rithika.
 
+Shhh, I'm working on my profile.
+
 
 <!--
 ## My Stats
