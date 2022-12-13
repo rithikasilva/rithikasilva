@@ -4,7 +4,7 @@
 
 Shhh, I'm working on my profile.
 
-
+![Snake](https://raw.githubusercontent.com/rithikasilva/rithikasilva/output/github-contribution-grid-snake.svg
 <!--
 ## My Stats
 <p>
