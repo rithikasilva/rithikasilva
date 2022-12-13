@@ -3,6 +3,7 @@
 ## I'm Rithika.
 
 Shhh, I'm working on my profile.
+
 ![Snake](https://github.com/rithikasilva/rithikasilva/blob/output/github-contribution-grid-snake-dark.svg)
 
 <!--
