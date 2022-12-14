@@ -4,7 +4,7 @@
 
 Shhh, I'm working on my profile.
 
-# Blog Posts
+### Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [iSH V.S. Termius V.S. Blink Shell for SSH](https://rithikasilva.github.io/rs-blog/2022/06/17/BlinkiSHTermius/)
 - [Agorithmic Art Bot](https://rithikasilva.github.io/rs-blog/2021/12/31/AlgorithmicArtBot/)
