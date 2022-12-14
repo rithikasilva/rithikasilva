@@ -8,8 +8,6 @@ Shhh, I'm working on my profile.
 <!-- BLOG-POST-LIST:START -->
 - [iSH V.S. Termius V.S. Blink Shell for SSH](https://rithikasilva.github.io/rs-blog/2022/06/17/BlinkiSHTermius/)
 - [Agorithmic Art Bot](https://rithikasilva.github.io/rs-blog/2021/12/31/AlgorithmicArtBot/)
-- [Blurred Blob Memorizing](https://rithikasilva.github.io/rs-blog/2021/08/13/BlurredBlobMemorizing/)
-- [MTHEL 99 👍](https://rithikasilva.github.io/rs-blog/2021/08/09/MTHEL99/)
 <!-- BLOG-POST-LIST:END -->
 
 ![Snake](https://github.com/rithikasilva/rithikasilva/blob/output/github-contribution-grid-snake-dark.svg)
