@@ -4,6 +4,10 @@
 
 Shhh, I'm working on my profile.
 
+
+<!-- blog-post-list:start -->
+<!-- blog-post-list:end -->
+
 ![Snake](https://github.com/rithikasilva/rithikasilva/blob/output/github-contribution-grid-snake-dark.svg)
 
 <!--
