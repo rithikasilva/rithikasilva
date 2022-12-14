@@ -6,6 +6,21 @@ Shhh, I'm working on my profile.
 
 
 <!-- blog-post-list:start -->
+## B.log\(\)
+
+
+
+[Read more](https://rithikasilva.github.io/rs-blog/)
+> Last updated: Wednesday, December 14, 2022 at 5:48:34 PM
+
+> Showing 4 of 4 posts.
+
+[![iSH V.S. Termius V.S. Blink Shell for SSH](https://raw.githubusercontent.com/rithikasilva/rithikasilva/main/blog-post-list-output/B.log()/iSH_V.S._Termius_V.S._Blink_Shell_for_SSH.svg)](https://rithikasilva.github.io/rs-blog/2022/06/17/BlinkiSHTermius/)
+[![Agorithmic Art Bot](https://raw.githubusercontent.com/rithikasilva/rithikasilva/main/blog-post-list-output/B.log()/Agorithmic_Art_Bot.svg)](https://rithikasilva.github.io/rs-blog/2021/12/31/AlgorithmicArtBot/)
+[![Blurred Blob Memorizing](https://raw.githubusercontent.com/rithikasilva/rithikasilva/main/blog-post-list-output/B.log()/Blurred_Blob_Memorizing.svg)](https://rithikasilva.github.io/rs-blog/2021/08/13/BlurredBlobMemorizing/)
+[![MTHEL 99 👍](https://raw.githubusercontent.com/rithikasilva/rithikasilva/main/blog-post-list-output/B.log()/MTHEL_99_👍.svg)](https://rithikasilva.github.io/rs-blog/2021/08/09/MTHEL99/)
+
+
 <!-- blog-post-list:end -->
 
 ![Snake](https://github.com/rithikasilva/rithikasilva/blob/output/github-contribution-grid-snake-dark.svg)

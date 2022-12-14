@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 610 110" width="600" height="100" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <style>
+      .title {
+        font-size: 1.5em;
+        text-overflow: ellipsis;
+        overflow: hidden;
+        white-space: nowrap;
+      }
+      .description {
+        font-size: 0.75em;
+        text-overflow: ellipsis;
+        overflow: hidden;
+        display: -webkit-box;
+        -webkit-line-clamp: 3;
+        -webkit-box-orient: vertical;
+      }
+      .text {
+        text-align: start;
+        padding: 10px;
+        height: calc(100% - 20px);
+        margin-left: 0;
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
+        color: black;
+      }
+           .date {
+        font-size: 0.5em;
+        opacity: 0.5;
+        text-align: end;
+        position: absolute;
+        bottom: 0;
+        right: 10px;
+        color: black;
+      }
+      
+      .main {
+        fill: white;
+      }
+      .data {
+        opacity: 0.75;
+        text-align: start;
+        position: absolute;
+        bottom: 0;
+        padding-bottom: 5px;
+        left: 10px;
+        color: black;
+        max-width: 400px;
+        overflow: hidden;
+        white-space: nowrap;
+        text-overflow: ellipsis;
+      }
+      .author {
+        opacity: 0.75;
+        font-size: 0.5em;
+      }
+      .category {
+        background-color: rgba(0, 0, 0, 0.25);
+        border-radius: 0.25em;
+        padding: 0.125em 0.25em;
+        font-size: 0.75em;
+        color: rgba(0, 0, 0, 0.8);
+      }
+    </style>
+  </defs>
+  <g class="main">
+    <rect class="content" width="600" height="100" stroke="rgba(0, 0, 0, 0.5)" x="5" y="5" rx="10" />
+    <foreignObject width="600" height="100" x="5" y="5">
+      <div xmlns="http://www.w3.org/1999/xhtml" style="border-radius: 5px; overflow: hidden; height: 100%;">
+        <div class="text">
+          <div class="title">Blurred&#0032;Blob&#0032;Memorizing</div>
+          <div class="description">It&#0032;has&#0032;come&#0032;to&#0032;my&#0032;attention&#0032;that&#0032;a&#0032;method&#0032;that&#0032;I&#0032;use&#0032;to&#0032;study&#0032;is&#0032;uncommon&#0032;and&#0032;apparently&#0032;strange&#0046;&#0032;&#0010;As&#0032;such&#0044;&#0032;I&#0032;have&#0032;decided&#0032;to&#0032;record&#0032;it&#0032;here&#0032;in&#0032;the&#0032;hopes&#0032;that&#0032;someone&#0032;might&#0032;find&#0032;it&#0032;useful&#0046;&#0010;The&#0032;method&#0032;involves&#0032;memorizing&#0032;the&#0032;outlines&#0032;of&#0032;text&#0032;written&#0032;in&#0032;my&#0032;notes&#0046;&#0032;&#0010;By&#0032;crossing&#0032;my&#0032;eyes&#0032;slightly&#0044;&#0032;I&#0032;am&#0032;forced&#0032;to&#0032;view&#0032;my&#0032;notes&#0032;as&#0032;messy&#0032;graphite&#0032;blobs&#0046;&#0032;&#0010;By&#0032;memorizing&#0032;the&#0032;general&#0032;shapes&#0032;and&#0032;sizes&#0032;of&#0032;these&#0032;blobs&#0044;&#0032;I&#0032;find&#0032;it&#0032;easier&#0032;to&#0032;recall&#0032;information&#0032;during&#0032;tests&#0046;&#0032;&#0010;Instead&#0032;of&#0032;recalling&#0032;all&#0032;of&#0032;the&#0032;information&#0032;in&#0032;a&#0032;particular&#0032;section&#0032;of&#0032;my&#0032;notes&#0044;&#0032;I&#0032;recall&#0032;the&#0032;outline&#0046;&#0032;&#0010;Using&#0032;this&#0032;blob&#0044;&#0032;I&#0032;can&#0032;figure&#0032;out&#0032;the&#0032;“size”&#0032;of&#0032;the&#0032;content&#0032;I&#0032;have&#0032;for&#0032;this&#0032;topic&#0046;&#0032;&#0010;This&#0032;blob&#0032;is&#0032;used&#0032;in&#0032;comparison&#0032;to&#0032;my&#0032;written&#0032;answers&#0032;in&#0032;tests&#0032;to&#0032;see&#0032;if&#0032;I&#0032;could&#0032;be&#0032;missing&#0032;content&#0046;&#0032;&#0010;Though&#0032;I&#0032;may&#0032;not&#0032;know&#0032;exactly&#0032;what&#0032;the&#0032;content&#0032;is&#0044;&#0032;it&#0032;helps&#0032;me&#0032;by&#0032;informing&#0032;me&#0032;and&#0032;taking&#0032;less&#0032;work&#0032;to&#0032;memorize&#0046;&#0010;It&#0032;is&#0032;important&#0032;to&#0032;state&#0032;that&#0032;I&#0032;use&#0032;this&#0032;in&#0032;conjunction&#0032;with&#0032;standard&#0032;studying&#0032;methods&#0046;&#0032;&#0010;This&#0032;method&#0032;should&#0032;not&#0032;be&#0032;used&#0032;as&#0032;a&#0032;stand&#0032;alone&#0032;method&#0032;as&#0032;no&#0032;detailed&#0032;content&#0032;is&#0032;actually&#0032;memorized&#0032;using&#0032;this&#0032;method&#0046;&#0032;&#0010;Additionally&#0044;&#0032;I&#0032;have&#0032;only&#0032;found&#0032;this&#0032;method&#0032;to&#0032;be&#0032;useful&#0032;in&#0032;classes&#0032;such&#0032;as&#0032;biology&#0032;and&#0032;chemistry&#0032;&#0040;where&#0032;heavy&#0032;memorizing&#0032;may&#0032;be&#0032;necessary&#0041;&#0032;and&#0032;only&#0032;in&#0032;high&#0032;school&#0046;&#0032;I&#0032;imagine&#0032;that&#0032;this&#0032;method&#0032;will&#0032;become&#0032;ineffective&#0032;for&#0032;university&#0032;courses&#0044;&#0032;but&#0032;I&#0032;have&#0032;yet&#0032;to&#0032;try&#0032;it&#0032;out&#0046;</div>
+          <div class="date">8&#0047;13&#0047;21</div>
+          <div class="data">
+            <span class="author"></span> 
+          </div>
+        </div>
+      </div>
+    </foreignObject>
+  </g>
+</svg>
