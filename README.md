@@ -5,21 +5,8 @@
 Shhh, I'm working on my profile.
 
 
-<!-- blog-post-list:start -->
-## B.log\(\)
-
-
-
-[Read more](https://rithikasilva.github.io/rs-blog/)
-> Last updated: Wednesday, December 14, 2022 at 5:51:15 PM
-
-> Showing 2 of 4 posts.
-
-[![iSH V.S. Termius V.S. Blink Shell for SSH](https://raw.githubusercontent.com/rithikasilva/rithikasilva/main/blog-post-list-output/B.log()/iSH_V.S._Termius_V.S._Blink_Shell_for_SSH.svg)](https://rithikasilva.github.io/rs-blog/2022/06/17/BlinkiSHTermius/)
-[![Agorithmic Art Bot](https://raw.githubusercontent.com/rithikasilva/rithikasilva/main/blog-post-list-output/B.log()/Agorithmic_Art_Bot.svg)](https://rithikasilva.github.io/rs-blog/2021/12/31/AlgorithmicArtBot/)
-
-
-<!-- blog-post-list:end -->
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ![Snake](https://github.com/rithikasilva/rithikasilva/blob/output/github-contribution-grid-snake-dark.svg)
 
