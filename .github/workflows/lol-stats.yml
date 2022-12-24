@@ -22,7 +22,7 @@ jobs:
           - name: Use readme-lol-stats-action
             uses: rithikasilva/readme-lol-stats-action@master # checkout the repository content to github runner
             with:
-                source: github-actions-testing
+                source: ${{ github.event.repository.name }}
                 pat: ${{ secrets.MY_PAT }}
                 api-key: ${{ secrets.API_KEY }}
           - name: list
