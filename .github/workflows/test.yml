@@ -10,11 +10,7 @@ jobs:
           - name: Checkout current repo
             uses: actions/checkout@v2 # checkout the repository content to github runner
             
-          - name: Test Clone
-            run: |
-                git clone https://${{ secrets.MY_PAT }}@github.com/rithikasilva/readme-lol-stats.git
-                
-                
+            
           - name: Use readme-lol-stats-action
             uses: rithikasilva/readme-lol-stats-action@master # checkout the repository content to github runner
             with:
