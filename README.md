@@ -4,6 +4,11 @@
 
 Shhh, I'm working on my profile.
 
+### LoL Stats
+<!---LOL-STATS-START-HERE--->
+<!---LOL-STATS-END-HERE--->
+
+
 #### Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [iSH V.S. Termius V.S. Blink Shell for SSH](https://rithikasilva.github.io/rs-blog/2022/06/17/BlinkiSHTermius/)
