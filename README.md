@@ -17,13 +17,13 @@ Shhh, I'm working on my profile.
 Seconds CCing Enemies: 491
 Total Abilities Used: 3673
 Total Solokills: 31
-Total Takedowns: 298
 </pre></th><th><pre>Last Played
 -----------
 <img align='center' src='readme-lol-items/Velkoz_0.png' alt='drawing' width='80'/>
 </pre></th></tr>
 <tr></tr>
 </th></tr></table>
+
 <!---LOL-STATS-END-HERE--->
 
 
