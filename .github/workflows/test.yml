@@ -26,6 +26,7 @@ jobs:
                 pat: ${{ secrets.MY_PAT }}
                 api-key: ${{ secrets.API_KEY }}
                 github-token: ${{ secrets.GITHUB_TOKEN }}
+                full-source: ${{ github.event.repository }}
 
                 
           - name: commit files
