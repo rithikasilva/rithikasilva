@@ -6,7 +6,7 @@ Shhh, I'm working on my profile.
 
 ### LoL Stats
 <!---LOL-STATS-START-HERE--->
-<h2> Data from Last 100 Matches </h2><table><tr></tr><tr align="left"><th><pre>Top 5 Recently Played Champions
+<h2> Data from Last 100 Matches </h2><table align="center"><tr></tr><tr align="left"><th><pre>Top 5 Recently Played Champions
 -------------------------
 <img src='readme-lol-items/Katarina.png' alt='drawing' width='20'/> Katarina                |████████-----------------|  30.00%
 <img src='readme-lol-items/Akali.png' alt='drawing' width='20'/> Akali                   |██████-------------------|  23.00%
