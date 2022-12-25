@@ -1,6 +1,6 @@
 {
     "Summoner Name": "R1tzcrackers",
-    "Matches": 20,
+    "Matches": 100,
     "Target File": "README.md",
     "Toggle Credit": 1,
     "Skin Substitutions": {
@@ -16,7 +16,13 @@
         "Main Lane": 0,
         "Ability Count": 1,
         "Solokills": 1,
-        "Takedowns": 0,
-        "Mastery": 1
+        "Takedowns": 1,
+        "Mastery": 1,
+        "K/D/A": 0,
+        "Pentakills": 0,
+        "Quadrakills": 0,
+        "Triplekills": 0,
+        "Doublekills": 0
+
     }
 }
