@@ -27,13 +27,6 @@ Total Solokills: 152
 
 
   
- <table><tr><th>
-   Test Content
-   
-   Super Long Contet To See Centering
-   </th></tr></table> 
-  
-  
   
   
   
