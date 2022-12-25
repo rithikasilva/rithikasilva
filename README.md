@@ -6,6 +6,24 @@ Shhh, I'm working on my profile.
 
 ### LoL Stats
 <!---LOL-STATS-START-HERE--->
+<h2 align='center'> Data from Last 20 Matches </h2><table align='center'><tr></tr><tr><th><pre>Top 5 Recently Played Champions
+-------------------------
+<img src='readme-lol-items/Neeko.png' alt='drawing' width='20'/> Neeko                   |██████████████████-------|  70.00%
+<img src='readme-lol-items/Taliyah.png' alt='drawing' width='20'/> Taliyah                 |███----------------------|  10.00%
+<img src='readme-lol-items/Velkoz.png' alt='drawing' width='20'/> Velkoz                  |██-----------------------|   5.00%
+<img src='readme-lol-items/Malphite.png' alt='drawing' width='20'/> Malphite                |██-----------------------|   5.00%
+<img src='readme-lol-items/Nunu.png' alt='drawing' width='20'/> Nunu                    |██-----------------------|   5.00%
+-------------------------
+Seconds CCing Enemies: 593
+Total Abilities Used: 3835
+Total Solokills: 33
+</pre></th><th><pre>Last Played
+-----------
+<img align='center' src='readme-lol-items/Taliyah_3.png' alt='drawing' width='80'/>
+</pre></th></tr>
+<tr></tr>
+</th></tr></table>
+
 <!---LOL-STATS-END-HERE--->
 
 
