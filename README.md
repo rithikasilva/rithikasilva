@@ -19,7 +19,7 @@ Total Abilities Used: 21455
 Total Solokills: 151
 </pre></th><th><pre>Last Played
 -----------
-<img align='center' src='readme-lol-items/Katarina_0.png' alt='drawing' width='80'/>
+<img align='center' src='readme-lol-items/Katarina_29.png' alt='drawing' width='80'/>
 </pre></th></tr>
 <tr></tr>
 </th></tr></table>
