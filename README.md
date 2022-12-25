@@ -8,22 +8,21 @@ Shhh, I'm working on my profile.
 <!---LOL-STATS-START-HERE--->
 <h2 align='center'> Data from Last 100 Matches </h2><table align='center'><tr></tr><tr><th><pre>Top 5 Recently Played Champions
 -------------------------
-<img src='readme-lol-items/Katarina.png' alt='drawing' width='20'/> Katarina                |███████------------------|  26.00%
-<img src='readme-lol-items/Akali.png' alt='drawing' width='20'/> Akali                   |███████------------------|  25.00%
-<img src='readme-lol-items/Yasuo.png' alt='drawing' width='20'/> Yasuo                   |█████--------------------|  17.00%
+<img src='readme-lol-items/Katarina.png' alt='drawing' width='20'/> Katarina                |████████-----------------|  30.00%
+<img src='readme-lol-items/Akali.png' alt='drawing' width='20'/> Akali                   |██████-------------------|  23.00%
 <img src='readme-lol-items/Neeko.png' alt='drawing' width='20'/> Neeko                   |████---------------------|  15.00%
+<img src='readme-lol-items/Yasuo.png' alt='drawing' width='20'/> Yasuo                   |████---------------------|  15.00%
 <img src='readme-lol-items/Yone.png' alt='drawing' width='20'/> Yone                    |██-----------------------|   6.00%
 -------------------------
-Seconds CCing Enemies: 1158
-Total Abilities Used: 21455
-Total Solokills: 151
-</pre></th><th><pre>Last Played
------------
-<img align='center' src='readme-lol-items/Katarina_29.png' alt='drawing' width='80'/>
-</pre></th></tr>
-<tr></tr>
-</th></tr></table>
-
+Seconds CCing Enemies: 1130
+Total Abilities Used: 20835
+Total Solokills: 152
+<th><pre>Top 3 Champion Masteries
+------------------------
+<img align='center' src='readme-lol-items/Neeko_0.png' alt='drawing' width='50'/> Neeko: 136216 
+<img align='center' src='readme-lol-items/Yone_19.png' alt='drawing' width='50'/> Yone: 108926 
+<img align='center' src='readme-lol-items/Akali_9.png' alt='drawing' width='50'/> Akali: 89275 
+</pre></th></tr></table>
 <!---LOL-STATS-END-HERE--->
 
 
