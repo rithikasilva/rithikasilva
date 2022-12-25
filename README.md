@@ -19,9 +19,9 @@ Total Abilities Used: 20835
 Total Solokills: 152
 <th><pre>Top 3 Champion Masteries
 ------------------------
-<img align='center' src='readme-lol-items/Neeko_0.png' alt='drawing' width='50'/> Neeko: 136216 
-<img align='center' src='readme-lol-items/Yone_19.png' alt='drawing' width='50'/> Yone: 108926 
-<img align='center' src='readme-lol-items/Akali_9.png' alt='drawing' width='50'/> Akali: 89275 
+<img src='readme-lol-items/Neeko_0.png' alt='drawing' width='50'/> Neeko: 136216 
+<img src='readme-lol-items/Yone_19.png' alt='drawing' width='50'/> Yone: 108926 
+<img src='readme-lol-items/Akali_9.png' alt='drawing' width='50'/> Akali: 89275 
 </pre></th></tr></table>
 <!---LOL-STATS-END-HERE--->
 
