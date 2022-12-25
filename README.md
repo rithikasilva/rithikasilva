@@ -6,7 +6,7 @@ Shhh, I'm working on my profile.
 
 ### LoL Stats
 <!---LOL-STATS-START-HERE--->
-<h2 align='center'> Data from Last 20 Matches </h2><table align='center'><tr></tr>
+<h3 align='center'> Data from Last 20 Matches </h3><table align='center'><tr></tr>
 <tr align='left'><th><pre>Top 5 Recently Played Champions
 -------------------------
 <img src='readme-lol-items/Neeko.png' alt='drawing' width='20'/> Neeko            |█████████████------------|  50.00%
