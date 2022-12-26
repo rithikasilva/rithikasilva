@@ -6,19 +6,20 @@ Shhh, I'm working on my profile.
 
 ### LoL Stats
 <!---LOL-STATS-START-HERE--->
-<h3 align='center'> Data from Last 20 Matches </h3><table align='center'><tr></tr>
+<h3 align='center'> Data from Last 100 Matches </h3><table align='center'><tr></tr>
 <tr align='left'><th><pre>Top 5 Recently Played Champions
 -------------------------
-<img src='readme-lol-items/Neeko.png' alt='drawing' width='20'/> Neeko            |█████████████------------|  50.00%
-<img src='readme-lol-items/Katarina.png' alt='drawing' width='20'/> Katarina         |███████------------------|  25.00%
-<img src='readme-lol-items/Akali.png' alt='drawing' width='20'/> Akali            |██-----------------------|   5.00%
-<img src='readme-lol-items/Taliyah.png' alt='drawing' width='20'/> Taliyah          |██-----------------------|   5.00%
-<img src='readme-lol-items/Velkoz.png' alt='drawing' width='20'/> Velkoz           |██-----------------------|   5.00%
+<img src='readme-lol-items/Katarina.png' alt='drawing' width='20'/> Katarina         |████████-----------------|  30.00%
+<img src='readme-lol-items/Akali.png' alt='drawing' width='20'/> Akali            |██████-------------------|  23.00%
+<img src='readme-lol-items/Neeko.png' alt='drawing' width='20'/> Neeko            |████---------------------|  15.00%
+<img src='readme-lol-items/Yasuo.png' alt='drawing' width='20'/> Yasuo            |████---------------------|  15.00%
+<img src='readme-lol-items/Yone.png' alt='drawing' width='20'/> Yone             |██-----------------------|   6.00%
 -------------------------
-Seconds CCing Enemies: 403
-Total Abilities Used: 3319
-Total Solokills: 36
-<th><pre>Top 3 Champion Masteries
+Seconds CCing Enemies: 1130
+Total Abilities Used: 20835
+Total Solokills: 152
+Total Takedowns: 1342
+</pre></th><th><pre>Top 3 Champion Masteries
 ------------------------
 <img align='center' src='readme-lol-items/Neeko_0.png' alt='drawing' width='50'/> Neeko: 136216 
 <img align='center' src='readme-lol-items/Yone_19.png' alt='drawing' width='50'/> Yone: 108926 
