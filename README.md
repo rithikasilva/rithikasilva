@@ -6,19 +6,19 @@ Shhh, I'm working on my profile.
 
 ### LoL Stats
 <!---LOL-STATS-START-HERE--->
-<h3 align='center'> Data from Last 100 Matches </h3><table align='center'><tr></tr>
+<h3 align='center'> Data from Last 10 Matches for R1tzcrackers</h3><table align='center'><tr></tr>
 <tr align='left'><th><pre>Top 5 Recently Played Champions
 -------------------------
-<img src='readme-lol-items/Katarina.png' alt='drawing' width='20'/> Katarina         |████████-----------------|  31.00%
-<img src='readme-lol-items/Akali.png' alt='drawing' width='20'/> Akali            |██████-------------------|  20.00%
-<img src='readme-lol-items/Neeko.png' alt='drawing' width='20'/> Neeko            |█████--------------------|  16.00%
-<img src='readme-lol-items/Yasuo.png' alt='drawing' width='20'/> Yasuo            |████---------------------|  15.00%
-<img src='readme-lol-items/Taliyah.png' alt='drawing' width='20'/> Taliyah          |██-----------------------|   4.00%
+<img src='readme-lol-items/Akali.png' alt='drawing' width='20'/> Akali            |███████████--------------|  40.00%
+<img src='readme-lol-items/Taliyah.png' alt='drawing' width='20'/> Taliyah          |██████-------------------|  20.00%
+<img src='readme-lol-items/Neeko.png' alt='drawing' width='20'/> Neeko            |███----------------------|  10.00%
+<img src='readme-lol-items/Katarina.png' alt='drawing' width='20'/> Katarina         |███----------------------|  10.00%
+<img src='readme-lol-items/Quinn.png' alt='drawing' width='20'/> Quinn            |███----------------------|  10.00%
 -------------------------
-Seconds CCing Enemies: 1189
-Total Abilities Used: 20049
-Total Solokills: 153
-Total Takedowns: 1337
+Seconds CCing Enemies: 121
+Total Abilities Used: 1856
+Total Solokills: 19
+Total Takedowns: 91
 </pre></th><th><pre>Top 3 Champion Masteries
 ------------------------
 <img align='center' src='readme-lol-items/Neeko_0.png' alt='drawing' width='50'/> Neeko: 136368 
