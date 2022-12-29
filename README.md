@@ -41,6 +41,7 @@ Total Takedowns: 91
 <!-- BLOG-POST-LIST:START -->
 - [Initial Alpha of README LoL Stats](https://rithikasilva.github.io/rs-blog/2022/12/24/READMELOLSTATS/)
 - [iSH V.S. Termius V.S. Blink Shell for SSH](https://rithikasilva.github.io/rs-blog/2022/06/17/BlinkiSHTermius/)
+- [Agorithmic Art Bot](https://rithikasilva.github.io/rs-blog/2021/12/31/AlgorithmicArtBot/)
 <!-- BLOG-POST-LIST:END -->
 
 ![Snake](https://github.com/rithikasilva/rithikasilva/blob/output/github-contribution-grid-snake-dark.svg)
