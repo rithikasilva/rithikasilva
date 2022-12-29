@@ -39,7 +39,7 @@ Total Takedowns: 91
   
 #### Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [README LoL Stats -&amp;gt; README Profile LoL Stats](https://rithikasilva.github.io/rs-blog/2022/12/29/READMEPROFILELOLSTATS/)
+- [README LoL Stats –&amp;gt; README Profile LoL Stats](https://rithikasilva.github.io/rs-blog/2022/12/29/READMEPROFILELOLSTATS/)
 - [Initial Alpha of README LoL Stats](https://rithikasilva.github.io/rs-blog/2022/12/24/READMELOLSTATS/)
 - [iSH V.S. Termius V.S. Blink Shell for SSH](https://rithikasilva.github.io/rs-blog/2022/06/17/BlinkiSHTermius/)
 <!-- BLOG-POST-LIST:END -->
