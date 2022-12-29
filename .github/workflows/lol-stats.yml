@@ -7,28 +7,29 @@ jobs:
     build:    
         runs-on: ubuntu-latest
         steps:
+            # Checkout current repo to runner
           - name: Checkout current repo
-            uses: actions/checkout@v2 # checkout the repository content to github runner
+            uses: actions/checkout@v2 
             
+            # Setup python
           - name: setup python
             uses: actions/setup-python@v4
             with:
-                python-version: '3.9' # install the python version needed
+                python-version: '3.9' 
         
+            # Upgrade pip
           - name: Upgrade Pip
             run: |
                 python -m pip install --upgrade pip
-                
+            
+            # Run readme-lol-stats-action
           - name: Use readme-lol-stats-action
-            uses: rithikasilva/readme-lol-stats-action@master # checkout the repository content to github runner
+            uses: rithikasilva/readme-lol-stats@master 
             with:
                 source: ${{ github.event.repository.name }}
-                pat: ${{ secrets.MY_PAT }}
                 api-key: ${{ secrets.API_KEY }}
-          - name: list
-            run: ls
-
-                
+            
+            # Commit files to current repo
           - name: commit files
             run: |
                 git config --local user.email "action@github.com"
@@ -36,7 +37,7 @@ jobs:
                 git add -A
                 git diff-index --quiet HEAD || (git commit -a -m "updated logs" --allow-empty)
             
-            
+            # Push changes to current repo
           - name: push changes
             uses: ad-m/github-push-action@v0.6.0
             with:
