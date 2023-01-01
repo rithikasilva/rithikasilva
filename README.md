@@ -9,21 +9,21 @@ Shhh, I'm working on my profile.
 <h3 align='center'> Data from Last 10 Matches for R1tzcrackers</h3><table align='center'><tr></tr>
 <tr align='left'><th><pre>Top 5 Recently Played Champions
 -------------------------
-<img src='readme-lol-items/Akali.png' alt='drawing' width='20'/> Akali            |███████████--------------|  40.00%
-<img src='readme-lol-items/Taliyah.png' alt='drawing' width='20'/> Taliyah          |██████-------------------|  20.00%
-<img src='readme-lol-items/Neeko.png' alt='drawing' width='20'/> Neeko            |███----------------------|  10.00%
-<img src='readme-lol-items/Katarina.png' alt='drawing' width='20'/> Katarina         |███----------------------|  10.00%
+<img src='readme-lol-items/Qiyana.png' alt='drawing' width='20'/> Qiyana           |███████████--------------|  40.00%
+<img src='readme-lol-items/Akali.png' alt='drawing' width='20'/> Akali            |██████-------------------|  20.00%
+<img src='readme-lol-items/Katarina.png' alt='drawing' width='20'/> Katarina         |██████-------------------|  20.00%
+<img src='readme-lol-items/Taliyah.png' alt='drawing' width='20'/> Taliyah          |███----------------------|  10.00%
 <img src='readme-lol-items/Quinn.png' alt='drawing' width='20'/> Quinn            |███----------------------|  10.00%
 -------------------------
-Seconds CCing Enemies: 121
-Total Abilities Used: 1856
-Total Solokills: 19
-Total Takedowns: 91
+Seconds CCing Enemies: 185
+Total Abilities Used: 2447
+Total Solokills: 16
+Total Takedowns: 139
 </pre></th><th><pre>Top 3 Champion Masteries
 ------------------------
 <img align='center' src='readme-lol-items/Neeko_0.png' alt='drawing' width='50'/> Neeko: 136368 
 <img align='center' src='readme-lol-items/Yone_19.png' alt='drawing' width='50'/> Yone: 108926 
-<img align='center' src='readme-lol-items/Akali_9.png' alt='drawing' width='50'/> Akali: 90335 
+<img align='center' src='readme-lol-items/Akali_9.png' alt='drawing' width='50'/> Akali: 91759 
 </pre></th></tr></table>
 <h6 align='center'>
 
