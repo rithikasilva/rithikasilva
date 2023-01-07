@@ -24,7 +24,7 @@ jobs:
             
             # Run readme-lol-stats-action
           - name: Use readme-lol-stats-action
-            uses: rithikasilva/readme-lol-stats@v0.1-features
+            uses: rithikasilva/readme-lol-stats/tree/features@main
             with:
                 source: ${{ github.event.repository.name }}
                 api-key: ${{ secrets.API_KEY }}
