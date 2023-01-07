@@ -9,22 +9,15 @@ Shhh, I'm working on my profile.
 <h3 align='center'> Data from Last 100 Matches for R1tzcrackers</h3><table align='center'><tr></tr>
 <tr align='left'><th><pre>Top 5 Recently Played Champions
 -------------------------
-<img src='readme-lol-items/Katarina.png' alt='drawing' width='20'/> Katarina         |█████--------------------|  19.00%
-<img src='readme-lol-items/Akali.png' alt='drawing' width='20'/> Akali            |█████--------------------|  17.00%
-<img src='readme-lol-items/Neeko.png' alt='drawing' width='20'/> Neeko            |█████--------------------|  16.00%
-<img src='readme-lol-items/Yasuo.png' alt='drawing' width='20'/> Yasuo            |███----------------------|  11.00%
-<img src='readme-lol-items/Taliyah.png' alt='drawing' width='20'/> Taliyah          |███----------------------|  10.00%
+<img src='readme-lol-items/loading_Katarina.gif' alt='drawing' width='400'/>
+<img src='readme-lol-items/loading_Akali.gif' alt='drawing' width='400'/>
+<img src='readme-lol-items/loading_Neeko.gif' alt='drawing' width='400'/>
+<img src='readme-lol-items/loading_Yasuo.gif' alt='drawing' width='400'/>
+<img src='readme-lol-items/loading_Taliyah.gif' alt='drawing' width='400'/>
 -------------------------
-Seconds CCing Enemies: 1504
-Total Abilities Used: 20702
-Total Solokills: 143
-Total Takedowns: 1302
-</pre></th><th><pre>Top 3 Champion Masteries
+<img align='center' src='readme-lol-items/extra_info.gif' alt='drawing' width='350'/></pre></th><th><pre>Top 3 Champion Masteries
 ------------------------
-<img align='center' src='readme-lol-items/Neeko_0.png' alt='drawing' width='50'/> Neeko: 136368 
-<img align='center' src='readme-lol-items/Yone_19.png' alt='drawing' width='50'/> Yone: 108926 
-<img align='center' src='readme-lol-items/Taliyah_3.png' alt='drawing' width='50'/> Taliyah: 93077 
-</pre></th></tr></table>
+<img align='center' src='readme-lol-items/mastery.gif' alt='drawing' width='320'/> </pre></th></tr></table>
 <h6 align='center'>
 
 [README Profile LoL Stats](https://github.com/marketplace/actions/readme-profile-lol-stats) by [rithikasiilva](https://github.com/rithikasilva)
