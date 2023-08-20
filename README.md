@@ -25,7 +25,7 @@ Shhh, I'm working on my profile.
 <!---LOL-STATS-END-HERE--->
 
 
-  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rithikasilva&layout=compact&theme=dark#gh-dark-mode-only)
   
   
   
