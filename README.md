@@ -23,12 +23,6 @@ Shhh, I'm working on my profile.
 [README Profile LoL Stats](https://github.com/marketplace/actions/readme-profile-lol-stats) by [rithikasiilva](https://github.com/rithikasilva)
 </h6>
 <!---LOL-STATS-END-HERE--->
-
-
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rithikasilva&layout=compact&theme=dark#gh-dark-mode-only)
-  
-  
-  
   
 #### Blog Posts
 <!-- BLOG-POST-LIST:START -->
