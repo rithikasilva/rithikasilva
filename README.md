@@ -9,11 +9,11 @@ Shhh, I'm working on my profile.
 <h3 align='center'> Data from Last 100 Matches for R1tzcrackers</h3><table align='center'><tr></tr>
 <tr align='left'><th><pre>Top 5 Recently Played Champions
 -------------------------
-<img src='readme-lol-items/loading_Aatrox.gif' alt='drawing' width='400'/>
 <img src='readme-lol-items/loading_Diana.gif' alt='drawing' width='400'/>
 <img src='readme-lol-items/loading_Akali.gif' alt='drawing' width='400'/>
-<img src='readme-lol-items/loading_Neeko.gif' alt='drawing' width='400'/>
-<img src='readme-lol-items/loading_Kalista.gif' alt='drawing' width='400'/>
+<img src='readme-lol-items/loading_Taliyah.gif' alt='drawing' width='400'/>
+<img src='readme-lol-items/loading_Yasuo.gif' alt='drawing' width='400'/>
+<img src='readme-lol-items/loading_Samira.gif' alt='drawing' width='400'/>
 -------------------------
 <img align='center' src='readme-lol-items/extra_info.gif' alt='drawing' width='350'/></pre></th><th><pre>Top 3 Champion Masteries
 ------------------------
