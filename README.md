@@ -31,8 +31,6 @@ Shhh, I'm working on my profile.
 - [iSH V.S. Termius V.S. Blink Shell for SSH](https://rithikasilva.github.io/rs-blog/2022/06/17/BlinkiSHTermius/)
 <!-- BLOG-POST-LIST:END -->
 
-![Snake](https://github.com/rithikasilva/rithikasilva/blob/output/github-contribution-grid-snake-dark.svg)
-
 <!--
 ## My Stats
 <p>
