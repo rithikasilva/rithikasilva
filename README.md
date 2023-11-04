@@ -1,6 +1,4 @@
-### Hi there 👋
-
-## I'm Rithika.
+# Hi there 👋, I'm Rithika
 
 ### LoL Stats
 <!---LOL-STATS-START-HERE--->
