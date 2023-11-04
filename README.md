@@ -24,9 +24,9 @@
   
 #### Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [README LoL Stats to README Profile LoL Stats](https://rithikasilva.github.io/rs-blog/2022/12/29/READMEPROFILELOLSTATS/)
-- [Initial Alpha of README LoL Stats](https://rithikasilva.github.io/rs-blog/2022/12/24/READMELOLSTATS/)
-- [iSH V.S. Termius V.S. Blink Shell for SSH](https://rithikasilva.github.io/rs-blog/2022/06/17/BlinkiSHTermius/)
+- [README LoL Stats to README Profile LoL Stats](https://rithikasilva.github.io/b.log-/Blog-Posts/README-LoL-Stats-to-README-Profile-LoL-Stats)
+- [Initial Alpha of README LoL Stats](https://rithikasilva.github.io/b.log-/Blog-Posts/Initial-Alpha-of-README-LoL-Stats)
+- [Algorithmic Art Bot](https://rithikasilva.github.io/b.log-/Blog-Posts/Algorithmic-Art-Bot)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
