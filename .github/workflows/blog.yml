@@ -15,4 +15,4 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           max_post_count: 3
-          feed_list: "https://rithikasilva.github.io/rs-blog/feed.xml"
+          feed_list: "https://rithikasilva.github.io/b.log-/index.xml"
