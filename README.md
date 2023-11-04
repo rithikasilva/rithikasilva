@@ -21,13 +21,7 @@
 [README Profile LoL Stats](https://github.com/marketplace/actions/readme-profile-lol-stats) by [rithikasiilva](https://github.com/rithikasilva)
 </h6>
 <!---LOL-STATS-END-HERE--->
-  
-#### Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [README LoL Stats to README Profile LoL Stats](https://rithikasilva.github.io/b.log-/Blog-Posts/README-LoL-Stats-to-README-Profile-LoL-Stats)
-- [Initial Alpha of README LoL Stats](https://rithikasilva.github.io/b.log-/Blog-Posts/Initial-Alpha-of-README-LoL-Stats)
-- [Algorithmic Art Bot](https://rithikasilva.github.io/b.log-/Blog-Posts/Algorithmic-Art-Bot)
-<!-- BLOG-POST-LIST:END -->
+
 
 <!--
 ## My Stats
