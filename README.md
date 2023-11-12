@@ -7,9 +7,9 @@
 -------------------------
 <img src='readme-lol-items/loading_Aatrox.gif' alt='drawing' width='400'/>
 <img src='readme-lol-items/loading_Akali.gif' alt='drawing' width='400'/>
+<img src='readme-lol-items/loading_Pantheon.gif' alt='drawing' width='400'/>
 <img src='readme-lol-items/loading_Riven.gif' alt='drawing' width='400'/>
-<img src='readme-lol-items/loading_Katarina.gif' alt='drawing' width='400'/>
-<img src='readme-lol-items/loading_Yasuo.gif' alt='drawing' width='400'/>
+<img src='readme-lol-items/loading_Pyke.gif' alt='drawing' width='400'/>
 -------------------------
 <img align='center' src='readme-lol-items/extra_info.gif' alt='drawing' width='350'/></pre></th><th><pre>Top 3 Champion Masteries
 ------------------------
