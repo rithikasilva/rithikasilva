@@ -6,10 +6,10 @@
 <tr align='left'><th><pre>Top 5 Recently Played Champions
 -------------------------
 <img src='readme-lol-items/loading_Caitlyn.gif' alt='drawing' width='400'/>
-<img src='readme-lol-items/loading_Aatrox.gif' alt='drawing' width='400'/>
 <img src='readme-lol-items/loading_Pantheon.gif' alt='drawing' width='400'/>
 <img src='readme-lol-items/loading_Yasuo.gif' alt='drawing' width='400'/>
 <img src='readme-lol-items/loading_Neeko.gif' alt='drawing' width='400'/>
+<img src='readme-lol-items/loading_Pyke.gif' alt='drawing' width='400'/>
 -------------------------
 <img align='center' src='readme-lol-items/extra_info.gif' alt='drawing' width='350'/></pre></th><th><pre>Top 3 Champion Masteries
 ------------------------
