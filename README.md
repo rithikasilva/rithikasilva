@@ -1,5 +1,5 @@
-# Hi there 👋, I'm Rithika
-
+<!-- # Hi there 👋, I'm Rithika
+-->
 ### LoL Stats
 <!---LOL-STATS-START-HERE--->
 <h3 align='center'> Data from Last 100 Matches for R1tzcrackers</h3><table align='center'><tr></tr>
