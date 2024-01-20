@@ -1,7 +1,7 @@
 <!-- # Hi there 👋, I'm Rithika
 -->
 ```
-[ rt1z@Tachyon ]~ ❯ whois rithikasilva
+[ rt1z@Tachyon ]~ ❯ fetch rithikasilva
 
 FIRST: Rithika                      
 LAST: Silva                            ／l、         
