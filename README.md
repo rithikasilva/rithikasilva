@@ -1,15 +1,26 @@
 <!-- # Hi there 👋, I'm Rithika
 -->
-```
-[ rt1z@Tachyon ]~ ❯ fetch rithikasilva
+```C++
+#ifndef RITHIKA_SILVA_H
+#define RITHIKA_SILVA_H
 
-FIRST:    Rithika                      
-LAST:     Silva                          ／l、         
-ALIAS:    r1tz                         （ﾟ､ ｡７
-UPTIME:   21 Years                       l、ﾞ~ヽ
-SITE:     rithikasilva.ca                じしf_, )ノ
-STATUS:   4th Year CS Student @ UW     --------------     
-LAPTOP:   Tachyon - Asus G14 2022
+#include <string>
+#include <vector>
+#include <iostream>
 
-[ rt1z@Tachyon ]~ ❯
+class RithikaSilva {
+public:
+    std::string alias = "r1tz";
+    int age = 21;
+    std::string status = "4th Year CS Student @ UW";
+    std::string website = "https://rithikasilva.ca";
+    std::string laptop = "Tachyon (Asus G14, 2022)";
+    std::vector<std::string> languages = {"C++", "C", "Python", "Rust", "Go"};
+
+    void now() {
+        std::cout << "Doing things. Allegedly." << std::endl;
+    }
+};
+
+#endif // RITHIKA_SILVA_H
 ```
