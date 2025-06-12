@@ -18,7 +18,7 @@ public:
     std::vector<std::string> languages = {"C++", "C", "Python", "Rust", "Go"};
 
     void now() {
-        std::cout << "Doing things. Allegedly." << std::endl;
+        std::cout << "Locket in." << std::endl;
     }
 };
 
