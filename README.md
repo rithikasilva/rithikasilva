@@ -11,7 +11,6 @@
 class RithikaSilva {
 public:
     std::string alias = "r1tz";
-    int age = 21;
     std::string status = "4th Year CS Student @ UW";
     std::string website = "https://rithikasilva.ca";
     std::string laptop = "Tachyon (Asus G14, 2022)";
