@@ -1,16 +1,15 @@
 <!-- # Hi there 👋, I'm Rithika
 -->
 ```C++
-#ifndef RITHIKA_SILVA_H
-#define RITHIKA_SILVA_H
+#ifndef RITHIKA_S_H
+#define RITHIKA_S_H
 
 #include <string>
 #include <vector>
 #include <iostream>
 
-class RithikaSilva {
+class RithikaS {
 public:
-    std::string alias = "r1tz";
     std::string status = "4th Year CS Student @ UW";
     
     std::vector<std::string> laptops = {
@@ -27,5 +26,5 @@ public:
     // TODO: Stop adding TODOs
 };
 
-#endif // RITHIKA_SILVA_H
+#endif // RITHIKA_S_H
 ```
