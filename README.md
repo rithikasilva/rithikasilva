@@ -1,5 +1,6 @@
 <!-- # Hi there 👋, I'm Rithika
 -->
+<!--
 ```C++
 #ifndef RITHIKA_S_H
 #define RITHIKA_S_H
@@ -28,3 +29,4 @@ public:
 
 #endif // RITHIKA_S_H
 ```
+-->
